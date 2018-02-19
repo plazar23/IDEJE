@@ -1,0 +1,18 @@
+# PREDLOZI ZA IME
+  Pesnkiov asistent, Pesnikova muza, 
+  
+## PREDLOZI ZA NOVE OPCIJE I SVE ONO VEZANO ZA OPTIMIZACIJU PROGRAMA
+
+1. Saradnja sa SANU može da pruži pristup njihovoj bazi poezije na srpskom jeziku.
+   Uz pomoć ove baze može da se napravi početni rejting za parove reči.
+   -Analizirale bi se uobičajni obrasci rimovanja(AABB, ABAB, ABBA...)
+   -Pravio bi se dictionary u pyton jeziku gde bi jedan član prestavljao par reči koji 
+   
+2. Opcija sa kojom se omogućava automatsko selektovanje poslednje reči u stihu.
+   *Automatski obrasci(AABB, ABAB, ABBA...)
+   
+3. Umesto zvezdice da se koristi simbol pera. U pitanju je pesma a ne hotel...
+
+4. Akaunt login bi bio uz pomoć FB.
+
+5. 
